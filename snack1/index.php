@@ -21,6 +21,8 @@ Olimpia Milano - Cantù | 55-60
         'homeTeamScore' => 92,
         'guestTeamScore' => 98],
     ];
+    var_dump($todayBasketMatches);
+    var_dump($todayBasketMatches[1]['homeTeam']);
 
 ?>
 
